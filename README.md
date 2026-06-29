@@ -58,7 +58,7 @@ Domains:
 <tr>
 
 <td align="center">
-<img src="https://img.shields.io/badge/🚁_AV32_Quadcopter-ESP32_Drone-00C7B7?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/🚁_AERONODE450-ESP32_Drone-00C7B7?style=for-the-badge"/><br><br>
 <b>Smartphone Controlled Drone</b>
 </td>
 
