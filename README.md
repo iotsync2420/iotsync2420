@@ -94,15 +94,21 @@ Domains:
 
 </table>
 
-##  💻 Featured Repositories
+## 🚀 Featured Engineering & AI Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=AERONODE-450&theme=radical)](https://github.com/iotsync2420/AERONODE-450)
+| 🛸 UAV  | 🦴 AI/ML |
+| :---: | :---: |
+| [![Aero Node 450](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=AERONODE-450&theme=radical)](https://github.com/iotsync2420/AERONODE-450) | [![AI Bone-Fracture](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=AI_BONE-FRACTURE&theme=radical)](https://github.com/iotsync2420/AI_BONE-FRACTURE) |
 
-
+| 🌤️ IOT  | 🎨 GEN AI |
+| :---: | :---: |
+| [![Smart Weather Buddy](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=smartbuddy&theme=radical)](https://github.com/iotsync2420/smartbuddy) | [![DreamForge AI](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=Diffusion_txt2img&theme=radical)](https://github.com/iotsync2420/Diffusion_txt2img) |
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
 </p>
 
 ---
+
+
 
