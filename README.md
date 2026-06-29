@@ -94,7 +94,9 @@ Domains:
 
 </table>
 
+##  💻 Featured Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iotsync2420&repo=AERONODE-450&theme=radical)](https://github.com/iotsync2420/AERONODE-450)
 
 
 <!-- ================= FOOTER ================= -->
