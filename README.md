@@ -37,19 +37,38 @@ Domains:
 
 ## ⚡ Tech Stack
 
+<h3 align="center">🧠 AI / ML / Deep Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /><br><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
+<h3 align="center">🌐 Web, Apps & Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,docker,github" /><br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+<h3 align="center">🔌 Embedded & Networking</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" /><br><br>
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-20B2AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PuTTY-0A66C2?style=for-the-badge"/>
+</p>
+
+<h3 align="center">📊 Data & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,vscode" /><br><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ## 🚀 Special Highlights
 
